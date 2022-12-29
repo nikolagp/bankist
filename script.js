@@ -240,9 +240,9 @@ userNameAbbr(accounts);
 let currentAccount, timer;
 
 // // FAKE always logged in
-currentAccount = account1;
-updateUI(currentAccount);
-containerApp.style.opacity = 1;
+// currentAccount = account1;
+// updateUI(currentAccount);
+// containerApp.style.opacity = 1;
 
 btnLogin.addEventListener("click", function (e) {
   e.preventDefault();
