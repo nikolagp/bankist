@@ -4,7 +4,7 @@
 
 Check it out deployed: https://bankist-amagidev.netlify.app
 <br>
-To see the dashboard, use this credentials:
+To see the dashboard, use these credentials:
 - User name: ng
 - Password: 2222
 
