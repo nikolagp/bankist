@@ -416,5 +416,3 @@ btnSort.addEventListener("click", function (e) {
 //   });
 // };
 // balance(accounts);
-
-//////////////////// LECTURES ///////////////////////////
