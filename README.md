@@ -3,6 +3,7 @@
 ![Bankist App Cover](https://github.com/nikolagp/bankist/blob/main/bankist_app.png?raw=true "Bankist App Cover")
 
 Check it out deployed: https://bankist-amagidev.netlify.app
+<br>
 To see the dashboard, use this credentials:
 - User name: ng
 - Password: 2222
